@@ -43,14 +43,15 @@ This end-to-end project simulates a real-world retail sales analytics pipeline. 
 ### 📊 Page 1: Executive Overview
 
 * Total Revenue, Units Sold, AOV, and Transactions
-* Trend analysis by Month and Quarter
-* Slicers for Year, Region, Category
+* Revenue by Age Group and Gender
+* City & region wise customer spend
+* Slicers for Quarter,Month,Region,Category
 
-### 🔹 Page 2: Top Products
+### 🔹 Page 2:  Products
 
 * Top 10 products by revenue
-* Revenue by category (treemap)
 * Revenue trends over quarters
+* Trend analysis by Month and Quarter
 
 ### 🔹 Page 3: Regional Performance
 
@@ -58,13 +59,7 @@ This end-to-end project simulates a real-world retail sales analytics pipeline. 
 * Map visual for top cities
 * Regional contribution trends
 
-### 🔹 Page 4: Customer Segments
-
-* Revenue by Age Group and Gender
-* City-wise customer spend
-* Segmentation matrix
-
-### 🔹 Page 5: Inventory Alerts (for future scope)
+### 🔹 Page 4: Inventory Alerts (for future)
 
 * View to track low stock products by store & category (ready for Power BI binding)
 
@@ -75,7 +70,7 @@ This end-to-end project simulates a real-world retail sales analytics pipeline. 
 *  Revenue fell short of target despite exceeding unit sales (+7.1%)
 *  Q3 is the best-performing quarter; seasonal patterns observed in Q2 & Q4
 * 👩 26–35 year-olds and female customers generate the highest spend
-* 🏢 West region (e.g., Mumbai, Pune) leads across all quarters
+* 🏢 West region leads across all quarters
 * ⚠️ Lower AOV suggests high volume in lower-value SKUs; upsell opportunities exist
 
 ---
